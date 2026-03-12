@@ -1,15 +1,18 @@
 # Machine Learning: Bottom Up
 
-Code recreating current machine learning methods and algorithms.
+Building Machine Learning methods from the ground up.
 
-Why: 
-I believe that understanding the maths and logic behind machine learning methods leads to a usage of them that is more effective and less stupid.
 
-Code avaliable here:
-/Regressions/
+**Code avaliable here:**
+
+##Supervised ML
+
+Regression: 
 - Simple Linear Regression using gradient descent
  - Multiple Linear Regression using gradient descent
 
-/Classifications/
+Classification:
  - Binary Logistic Regression using gradient descent
  - Neural Network using gradient descent
+
+##Unsupervised ML
