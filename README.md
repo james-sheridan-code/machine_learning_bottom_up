@@ -12,6 +12,7 @@ Regression:
 
 Classification:
  - Binary Classification Neural Network using batch gradient descent (BCNN_BCE_BGD)
+ - Binary Classification Decision Tree using entropy and information gain (BCDT_E_IG)
  - Binary Logistic Regression using batch gradient descent (BLR_BCE_BGD)
  - Binary Logistic Regression using mini-batch gradient descent (BLR_BCE_MBGD)
  - Binary Logistic Regression using stochastic gradient descent (BLR_BCE_SGD)
