@@ -9,6 +9,8 @@ Regression:
  - Multiple Linear Regression using batch gradient descent (MLR_MSE_BGD)
  - Multiple Linear Regression using mini-batch gradient descent (MLR_MSE_MBGD)
  - Multiple Linear Regression using stochastic gradient descent (MLR_MSE_SGD)
+ - Multiple Linear Regression using batch gradient descent and Lasso Regularisation (MLR_MSEL_BGD)
+ - Multiple Linear Regression using batch gradient descent and Ridge Regularisation (MLR_MSER_BGD)
 
 Classification:
  - Binary Classification Neural Network using batch gradient descent (BCNN_BCE_BGD)
